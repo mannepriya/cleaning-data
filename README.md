@@ -21,7 +21,7 @@ This has provided appropriate descriptive activity names to name the activities 
 The resulting data set with the lables is named traintest_label
 9.Using the reshape2 package, using functions melt() and dcast() a second independent tidy data set
  with the average of each variable for each activity and each subjecthas been created and named tidy_traintest
-10.This resulting tidy data set from the above step is saved into the working directory by using write.table() function
+10.This resulting tidy data set from the above step is in the wide format and is saved into the working directory by using write.table() function
 
 All the above steps were carried out using teh Rscript in the file run_analysis.R
 teh R script is as below
